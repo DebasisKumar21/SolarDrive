@@ -110,4 +110,4 @@ Code snippet
 
 ### Next Steps
 
-This covers your repository setup. Are you ready to tackle **Step 2 (Calculating the RIL
+This covers your repository setup. Are you ready to tackle **Step 2 (Calculating the RIL Pearson correlation)** or **Step 3 (Aggressively cutting the Related Work section)** to free up your page budget?
