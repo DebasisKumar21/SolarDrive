@@ -32,11 +32,10 @@ The full dataset including raw stereo frames, MOTChallenge-formatted annotations
 **[⬇ Download SolarDrive Dataset](https://drive.google.com/your-link-here)**
 
 ```
-tartuglare_colab.zip   — left-camera images  (images/<seq>/left_camera/*.jpg)
-labels.zip             — YOLO-format labels   (labels/<seq>/left_camera/*.txt)
+SolarDrive_dataset.zip   — left-camera images  (images/<seq>/left_camera/*.jpg)
+SolarDrive_labels.zip    — YOLO-format labels   (labels/<seq>/left_camera/*.txt)
 ```
 
-> **Note:** The zip extracts as a folder named `tartuglare_colab/`. Each notebook automatically renames this to `SolarDrive_dataset/` for consistency — no manual renaming is needed.
 
 ### Sequences
 
@@ -84,11 +83,7 @@ SolarDrive/
 │   ├── solardrive_tbd_tracking_benchmark.ipynb     # Table V — BoT-SORT · ByteTrack
 │   ├── solardrive_e2e_tracking_benchmark.ipynb     # Table V — MeMOTR · MOTRv2
 │   └── solardrive_figures.ipynb                   # Figures 1–7
-│
-└── scripts/                                        # Original local preprocessing scripts
-    ├── 00_setup_project.py                         # Project folder setup
-    ├── 03_structure_and_select.py                  # MOT directory builder
-    └── convert_to_coco_mot.py                      # COCO-MOT format converter
+
 ```
 
 ---
@@ -98,7 +93,7 @@ SolarDrive/
 All notebooks run on **Google Colab (T4 GPU)**. Each is self-contained: it mounts your Google Drive, unzips the dataset, and saves all outputs back to Drive.
 
 **Before running any notebook:**
-1. Upload `tartuglare_colab.zip` and `labels.zip` to `MyDrive/` in Google Drive
+1. Upload `SolarDrive_dataset.zip` and `SolarDrive_labels.zip` to `MyDrive/` in Google Drive
 2. Open the notebook in Colab: `File → Open notebook → GitHub → paste this repo URL`
 3. Set runtime: `Runtime → Change runtime type → T4 GPU`
 4. Run cells top to bottom in order
