@@ -1,4 +1,4 @@
-# SolarDrive: A High-Contrast Glare Dataset and Diagnostic Probe for Robust Autonomous Perception
+# SolarDrive: A High-Contrast Glare Dataset and Diagnostic Probe for Advancing Autonomous Perception
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20T--ITS-blue)](https://doi.org/10.1109/TIV.2026.XXXXXXX)
@@ -227,7 +227,7 @@ If you use SolarDrive in your research, please cite:
 ```bibtex
 @article{kumar2026solardrive,
   title     = {{SolarDrive}: A High-Contrast Glare Dataset and Diagnostic Probe
-               for Robust Autonomous Perception},
+               for Advancing Autonomous Perception},
   author    = {Kumar, Debasis and Alam, Md. Jahidul and
                Matiisen, Tambet and Muhammad, Naveed},
   journal   = {IEEE Transactions on Intelligent Vehicles},
