@@ -23,7 +23,7 @@ Standard autonomous driving datasets are predominantly captured under favorable 
 - Motion-compensated tracking (BoT-SORT) reduces Identity Switches by **52%** versus pure IoU association (ByteTrack)
 
 ---
-
+![Dataset Diversity](figure2_dataset_diversity.png)
 ## Dataset
 
 ### Download
