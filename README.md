@@ -31,7 +31,8 @@ Standard autonomous driving datasets are predominantly captured under favorable 
 
 The full dataset including raw stereo frames, MOTChallenge-formatted annotations, and pre-computed COCO-MOT JSON is available on Google Drive:
 
-**[⬇ Download SolarDrive Dataset](https://drive.google.com/file/d/1Zb89PAYrhCZmrSrJnLzwz9rLKLSohSSa/view?usp=sharing)**
+**[⬇ Download SolarDrive Dataset](https://drive.google.com/file/d/1T57sw2pSI3RrT77oReC0qbb9fjRXeOu9/view?usp=sharing)**
+**[⬇ Download SolarDrive Dataset Labels](https://drive.google.com/file/d/1JGQX683Cg2ec82WdsNlHZ5uL9QdoRsxn/view?usp=sharing)**
 
 ```
 SolarDrive_dataset.zip   — left-camera images  (images/<seq>/left_camera/*.jpg)
