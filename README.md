@@ -6,8 +6,8 @@
 [![Labels](https://img.shields.io/badge/Labels-Google%20Drive-red)](https://drive.google.com/file/d/1JGQX683Cg2ec82WdsNlHZ5uL9QdoRsxn/view?usp=sharing)
 
 
-> **Debasis Kumar, Md. Jahidul Alam, Tambet Matiisen, Naveed Muhammad**  
-> Institute of Computer Science, University of Tartu, Estonia  
+> **Debasis Kumar, Md. Jahidul Alam**  
+> Daffodil International University, Dhaka 1207, Bangladesh  
 > IEEE Transactions on Intelligent Vehicles, 2026
 
 ---
@@ -229,8 +229,7 @@ If you use SolarDrive in your research, please cite:
 @article{kumar2026solardrive,
   title     = {{SolarDrive}: A High-Contrast Glare Dataset and Diagnostic Probe
                for Advancing Autonomous Perception},
-  author    = {Kumar, Debasis and Alam, Md. Jahidul and
-               Matiisen, Tambet and Muhammad, Naveed},
+  author    = {Kumar, Debasis and Alam, Md. Jahidul},
   journal   = {IEEE Transactions on Intelligent Vehicles},
   year      = {2026},
   doi       = {10.1109/TIV.2026.XXXXXXX}
