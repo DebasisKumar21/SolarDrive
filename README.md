@@ -1,7 +1,7 @@
 # SolarDrive: A High-Contrast Glare Dataset and Diagnostic Probe for Advancing Autonomous Perception
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20T--ITS-blue)](https://doi.org/10.1109/TIV.2026.XXXXXXX)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20T--IV-blue)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-green)](https://drive.google.com/file/d/1T57sw2pSI3RrT77oReC0qbb9fjRXeOu9/view?usp=sharing)
 [![Labels](https://img.shields.io/badge/Labels-Google%20Drive-red)](https://drive.google.com/file/d/1JGQX683Cg2ec82WdsNlHZ5uL9QdoRsxn/view?usp=sharing)
 
@@ -208,7 +208,7 @@ The **Radiometric Information Loss (RIL)** metric quantifies photometric severit
 
 $$\text{RIL} = \left(\frac{1}{H \times W} \sum_{i=1}^{H} \sum_{j=1}^{W} \mathbb{1}(P_{ij} \leq 9 \;\vee\; P_{ij} \geq 245)\right) \times 100$$
 
-The thresholds ≤9 (crushed shadows) and ≥245 (blown highlights) isolate the physical saturation bounds of the Sony IMX265 sensor (72.7 dB dynamic range, 10,600e⁻ full-well capacity). RIL exhibits a strong positive rank correlation with ByteTrack Identity Switches (Spearman ρ = 0.80), validating it as a proxy for geometric tracking fragmentation.
+The thresholds ≤9 (crushed shadows) and ≥245 (blown highlights) isolate the physical saturation bounds of the Sony IMX265 sensor (72.7 dB dynamic range, 10,600e⁻ full-well capacity). RIL exhibits a strong positive rank correlation with ByteTrack Identity Switches, validating it as a proxy for geometric tracking fragmentation.
 
 ---
 
@@ -233,7 +233,7 @@ If you use SolarDrive in your research, please cite:
   author    = {Kumar, Debasis and Alam, Md. Jahidul},
   journal   = {IEEE Transactions on Intelligent Vehicles},
   year      = {2026},
-  doi       = {10.1109/TIV.2026.XXXXXXX}
+  doi       = {not yet}
 }
 ```
 
