@@ -21,7 +21,7 @@ Standard autonomous driving datasets are predominantly captured under favorable 
 - Our **Radiometric Information Loss (RIL)** metric reveals that geometric glare obliterates an average of **30.90%** of usable spatial gradients
 - Severe stroboscopic oscillations peak at **3.20 Hz**, systematically breaking temporal tracking
 - End-to-End Transformers (MeMOTR, MOTRv2) **collapse completely** under native-resolution spatial saturation
-- Motion-compensated tracking (BoT-SORT) reduces Identity Switches by **52%** versus pure IoU association (ByteTrack)
+- Motion-compensated tracking (BoT-SORT) reduces Identity Switches by **52.5%** versus pure IoU association (ByteTrack)
 
 ---
 ![Dataset Diversity](figure2_dataset_diversity.png)
